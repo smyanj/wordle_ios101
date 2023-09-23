@@ -1,7 +1,7 @@
 # wordle_ios101
 Implimented multiple features into an incomplete template to recreate the popular game wordle. 
 
-# Project 1 - *Wordle*
+# (IOS101)Project 1 - *Wordle*
 
 Submitted by: **Smyan Jaipuriyar**
 
