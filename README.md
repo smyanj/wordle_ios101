@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Dealt with several challenges when building this app. First of which understanding the syntax was quite difficult when initially hopping into the project. I would get confused with where and how variables were declared and calling functions within other classes. Overall I was able to overcome these issues and successfully develop the app!
+Dealt with several challenges when building this app. First of which understanding the syntax was quite difficult when initially starting the project. I would get confused with where and how variables were declared and calling functions within other classes. Overall I was able to overcome these issues and successfully develop the app!
 
 ## License
 
