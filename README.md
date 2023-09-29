@@ -5,8 +5,6 @@ Implimented multiple features into an incomplete template to recreate the popula
 
 Submitted by: **Smyan Jaipuriyar**
 
-**Wordle** is an app that ... 
-
 Time spent: 8 hours spent in total
 
 ## Required Features
